@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1", "Zadanie1\Zadani
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1UnitTests", "Zadanie1UnitTests\Zadanie1UnitTests.csproj", "{826C1FC9-D937-40E9-817B-B59869C6D78D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{E5F49721-5565-4FB3-8C7E-0F7B19B30C52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2UnitTests", "Zadanie2UnitTests\Zadanie2UnitTests.csproj", "{04F2816B-3296-432C-AE67-6D72C15899C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
